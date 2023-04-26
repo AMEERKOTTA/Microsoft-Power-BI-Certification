@@ -1,0 +1,28 @@
+What is Power BI..?
+
+	+ It is used to Connect to and Visualize any Data.
+	+ Using the unified scalable platform.
+	+ For self service and enterprise Business Intelligence.
+	+ That easy to use and helps you gain deeper data insights.
+
+Why Need to use Power BI..?
+
+	+ To Prepare Data.
+	+ To Perform in depth Data Analysis.
+	+ To Do Data Visualization.
+
+Who Uses Power BI..?
+
+	+ Power BI is alotted to both Individuals and also for the Teams.
+	+ Power BI tool is used by professional working with data.
+	+ To get better understanding of the data.
+	+ Like, Data Analysts, Data Scientists, BI Developer, etc.
+
+How Power BI works..?
+
+	+ Power BI is not a Single tool.
+	+ Power BI is a tool set consist of Multiple Connected tools.
+	+ The tools are 
+		+ Power BI Desktop  -- Used to Prepare and Create Projects.
+		+ Power BI Pro      -- Used to Collaborate and Share the Projects.
+		+ Power BI Mobile   -- Used to Connect and Access the Power BI Desktop and Pro from anywhere.
