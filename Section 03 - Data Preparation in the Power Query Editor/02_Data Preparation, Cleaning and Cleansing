@@ -1,0 +1,23 @@
+Data Preparation, Cleaning and Cleansing
+========================================
+
+1. QUERY DATA
+=============
+
+  + Querying the data means querying the dataset from Different Sources.
+  + Querying from Databases, Excel Sheets, Files, and different cloud databases.
+  
+2. DATA CLEANING
+================
+
+  + Remove Duplicates and Unrequired Data.
+  + Fixing Error like Missing Values and Empty Fields.
+  + Formatting Data like (Date, Time, Number, Integer, Float, etc)
+  + Combining Multiple Data Sources.
+ 
+3. DATA ANALYIZING / DATA VISUALIZATION
+=======================================
+
+  + This is the End Product of the Process.
+  + Data Analysis to get more Insights from Data.
+  + Data Visualization to get more deep understanding regarding the Insights Derived from Data Analysis.
