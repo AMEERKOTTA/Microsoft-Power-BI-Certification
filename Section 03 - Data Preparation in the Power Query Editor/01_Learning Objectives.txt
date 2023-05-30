@@ -1,0 +1,6 @@
+Learning Objectives
+
+
+		+ What is Query Editor?
+		+ Work with Queries, editing rows and columns.
+		+ Transformations, formating and Handling Errors.
