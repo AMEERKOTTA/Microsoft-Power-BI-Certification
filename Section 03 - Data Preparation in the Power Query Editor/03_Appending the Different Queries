@@ -6,3 +6,7 @@ Appending means Combining two or more tables to a single table.
 We can append the table by using different methods.
 By adding to exsting query
 or by making different queries to another stand out query.
+
+
+After we append the tables, it is not a good idea to make changes in previous individual queries.
+Because they will reflect in the final appended query which is combined.
