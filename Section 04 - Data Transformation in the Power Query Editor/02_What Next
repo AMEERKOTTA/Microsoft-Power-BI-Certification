@@ -1,0 +1,21 @@
+What Next ?
+===========
+  
+    Develping and Creating Data Model.
+    
+What and Why ?
+==============
+
+Elements in Data Models
+=======================
+
+  Data Warehouse : Large Store of Data Retrieved from various sources
+  designed to enable BI activities.
+  
+  
+  Data Model : Structured and Logical Organization of Data elements (eg : tables)
+  and relationship between different data elements.
+  
+  
+  Multidimensional Schema : Model different dimension to keep track of entities / 
+  actions concerning the warehouses activities.
