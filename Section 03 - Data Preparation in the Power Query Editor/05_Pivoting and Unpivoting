@@ -9,4 +9,8 @@ The tool does not actually change the spreadsheet or database itself,
 it simply “pivots” or turns the data to view it from different perspectives.
 
 
-
+What does it mean to Unpivot a table?
+=====================================
+In Excel, unpivot data means to transform your data from columns to rows, 
+where column headings are one row and the rows of data below the columns become their own separate, 
+combined row.
