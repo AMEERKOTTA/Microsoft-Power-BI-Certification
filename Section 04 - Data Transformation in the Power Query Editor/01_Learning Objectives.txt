@@ -1,0 +1,6 @@
+Learning Objectives
+
+		+ Data Modelling Theory
+		+ Understanding and Creating Star Schema
+		+ Diving Deeper into Selected Query Editor Feature
+		+ Understanding basic Mathematical Calculations
