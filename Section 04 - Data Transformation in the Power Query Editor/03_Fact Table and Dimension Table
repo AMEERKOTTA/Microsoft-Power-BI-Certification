@@ -1,0 +1,16 @@
+Fact Table and Dimension Table
+==============================
+
+Fact Table 
+==========
+
+  + It is a Central Table.
+  + Fact Table Contain Numerical Data.
+  + In Fact table there will be Foreign Keys, which can be mapped to Different Dimension tables.
+  
+Dimension Table
+===============
+
+  + Dimension table provide context and background information.
+  + Dimension tables are linked with Fact table by Primary Keys.
+  + Which are the Foreign Keys of Dimension Tables.
