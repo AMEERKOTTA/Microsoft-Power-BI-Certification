@@ -3,4 +3,4 @@
 
 + Section 1 : Getting Started.
 + Section 2 : Understanding the Power BI Desktop Basics.
-+ 
++ Section 3 : 
