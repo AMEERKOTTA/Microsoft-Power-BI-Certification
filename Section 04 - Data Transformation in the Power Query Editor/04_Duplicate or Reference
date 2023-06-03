@@ -1,6 +1,9 @@
 Duplicate or Reference
 ======================
 
+Reference
+=========
+
   + If we take a Reference of our Table or Query.
   + We will get a Query with Exact Same Data from the Previous Query.
   + And if we make a Change in the Query 1.
