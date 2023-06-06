@@ -10,3 +10,36 @@ What we will do is, We will prepare Dimension table like below.
       1. DIM-region table
       2. DIM-age table
       3. DIM-gender table
+
+
+Population Table Columns - FACT Table
+=====================================
+
+  country-id
+  age-group-id
+  gender-id
+  year
+  population
+  
+  
+  
+DIM-region table
+================
+
+  country-id
+  country
+  
+DIM-age table
+=============
+
+  age-group-id
+  age group
+  category
+  
+DIM-gender table
+================
+
+  gender-id
+  gender
+  
+  
