@@ -28,6 +28,7 @@ DIM-region table
 
   country-id
   country
+  region
   
 DIM-age table
 =============
