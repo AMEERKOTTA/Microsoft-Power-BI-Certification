@@ -1,0 +1,12 @@
+Applying Star Schema to Our Project
+===================================
+
+We have a Population Table which is a FACT Table.
+What we will do is, We will prepare Dimension table like below.
+
+  FACT Table : population-2010-2040.
+  We will create the DIM tables like below.
+  
+      1. DIM-region table
+      2. DIM-age table
+      3. DIM-gender table
