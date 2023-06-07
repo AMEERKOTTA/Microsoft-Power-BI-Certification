@@ -1,0 +1,18 @@
+M vs DAX Languages
+==================
+
+M Language:
+
+  + Power Query Formula Language.
+  + Used for Data Transformation.
+  + It is applied in the Data Preparation Phase.
+  + Before Data Model.
+  
+ 
+DAX Language:
+
+  + Data Analysis Expression Language.
+  + Used for Analytical Data Calculations.
+  + Comparable to Excel Functions.
+  + It is applied to create Insights.
+  + In the Data Model Phase.
