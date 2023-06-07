@@ -1,0 +1,8 @@
+Calculated Columns vs Measures Column Difference 
+================================================
+
+Calculated Columns will give you a new Column with Changes as in DAX Expressions.
+With Same Number of Rows.
+Performs an Operation that generates a result for each row of your table.
+
+But in Measures Column, Return a Single Result of Calculation or an Aggregated value.
