@@ -1,0 +1,17 @@
+DAX Syntax
+==========
+
+  Total Population = SUM ( FactPopulation [ PopulationCount])
+  
+  Formula Name : 
+                - Capital Letters
+                - Space
+                
+  Table Reference :
+                - Capital Letters
+                - No Space
+                
+  Column Reference : 
+                - Square Brackets
+                - Capital Letters
+                - No Space
