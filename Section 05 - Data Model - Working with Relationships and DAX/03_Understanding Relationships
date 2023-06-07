@@ -2,3 +2,31 @@ Understanding Relationships
 ===========================
 
 Relationships are the connection between Dimension Table and Fact Table to Communicate between the Table.
+
+Three features when creating the Relationships
+
+    1. Cardinality
+    2. Cross Filter Direction
+    3. Active Properties
+    
+Cardinality -- Relationship Types
+=================================
+
+1. One to Many Relationship (1 : n)
+===================================
+
+  One Record in Table A has one or many related records in Table B
+  Example : An employee belongs to one company, but a company can have many employees.
+  
+2. Many to Many Relationship (n : n)
+====================================
+
+  One Record in Table A has one or many related records in Table B, and vice versa.
+  Example : An employee can be a part of multiple projects and every projects can have mutiple employees working on it.
+
+3. One to One Relationship (1 : 1)
+==================================
+
+  One Record in Table A belongs to one record in Table B and vice versa.
+  Example : An employee has exactly one intranet account and every intranet account is belongs to only one employee.
+  
