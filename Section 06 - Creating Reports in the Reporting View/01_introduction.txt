@@ -1,0 +1,5 @@
+Introduction 
+
+	+ Creating Visuals and Reports
+	+ Formating Visuals / Charts & Understanding Report Themes
+	+ Working with Filters, Hierarchies and Interactions
