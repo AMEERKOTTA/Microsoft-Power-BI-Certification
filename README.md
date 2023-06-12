@@ -6,4 +6,4 @@
 + **Section 3 : Data Preparation in the Power Query Editor.**
 + **Section 4 : Data Transformation in Power Query Editor.**
 + **Section 5 : .**
-+ Section 6 : 
++ **Section 6 : .**
