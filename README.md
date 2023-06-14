@@ -7,3 +7,4 @@
 + **Section 4 : Data Transformation in Power Query Editor.**
 + **Section 5 : Data Model - Working with Relationships and DAX.**
 + **Section 6 : Creating Visuals in the Reporting View.**
++ **Section 7 :**
