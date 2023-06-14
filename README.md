@@ -5,5 +5,5 @@
 + **Section 2 : Understanding the Power BI Desktop Basics.**
 + **Section 3 : Data Preparation in the Power Query Editor.**
 + **Section 4 : Data Transformation in Power Query Editor.**
-+ **Section 5 : .**
++ **Section 5 : Data Model - Working with Relationships and DAX.**
 + **Section 6 : .**
