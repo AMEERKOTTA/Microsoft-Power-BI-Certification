@@ -8,6 +8,7 @@
 + **Section 5 : Data Model - Working with Relationships and DAX.**
 + **Section 6 : Creating Visuals in the Reporting View.**
 + **Section 7 :**
++ 
 
 
 ### Power BI Projects
